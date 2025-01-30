@@ -3,6 +3,7 @@ teams:
     maintainers:
       - ryjones
     members:
+      - jwagantall
       - thelinuxfoundation
     visibility: public
   - name: bevel-admins
