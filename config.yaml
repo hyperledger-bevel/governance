@@ -55,7 +55,6 @@ teams:
       - saikumarbommakanti
       - saurabhkumarkardam
       - suvajit-sarkar
-      - tkuhrt
 repositories:
   - name: governance
     teams:
